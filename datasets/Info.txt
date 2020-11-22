@@ -1,0 +1,1 @@
+Datasets folder contains all the dataset required for the purpose of this project. Download the datasets from the given links in the Project links and paste it here.
